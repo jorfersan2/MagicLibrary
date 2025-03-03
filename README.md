@@ -16,5 +16,3 @@ Está basado en el diseño del Tutorial UML que incluye [MagicDraw](https://www.
 - Para la Vista se utiliza [Swing](https://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html)
 
 - Está organizado como un proyecto [Gradle](https://gradle.org/) e incluye el gradle wrapper, aunque para las prácticas no será obligatorio utilizarlo
-
-# prueba
